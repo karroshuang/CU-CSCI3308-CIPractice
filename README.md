@@ -11,3 +11,5 @@ Summer 2014
 
 ### Requirements
 sudo apt-get install check
+
+[![Build Status](https://travis-ci.org/karroshuang/CU-CSCI3308-CIPractice.svg?branch=master)](https://travis-ci.org/karroshuang/CU-CSCI3308-CIPractice)
